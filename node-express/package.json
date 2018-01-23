@@ -1,0 +1,15 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "This project is for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suresh Dube",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
